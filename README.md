@@ -18,7 +18,7 @@ Given database schema has three tables, namely:
 1. Written SQL query to extract the global data and exported to CSV file.
 ![](https://github.com/rbpal/Udacity_DAND_2018_TermOne_Project_1_Explore-Weather-Trends/blob/master/images/project-01-Explore-Weather-Trends-global-data-extraction.PNG)
 
-1. Open CSV file using Pandas
+1. Open CSV file using Python's Pandas Library
 
 
 1. Created a line chart(Python's Seaborn Visualization Library) comparing  my city Philadelphia temperatures with the global temperatures.
