@@ -40,5 +40,6 @@ Following CSV files were used to complete the project
 
 
 ## Acknowledgments
+- https://udacitydatascience.slack.com/messages/C6SS3JMRQ/
 - https://www.youtube.com/watch?v=4EXNedimDMs
 - https://www.datacamp.com/community/tutorials/seaborn-python-tutorial?utm_source=adwords_ppc&utm_campaignid=1565261270&utm_adgroupid=67750485268&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=295208661511&utm_targetid=dsa-473406580275&utm_loc_interest_ms=&utm_loc_physical_ms=9005849&gclid=EAIaIQobChMI2J2Mt7ap3gIVgozICh1NSQkEEAAYASAAEgKzHfD_BwE
