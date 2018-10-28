@@ -13,7 +13,7 @@ Given database schema has three tables, namely:
 ## Project completion Steps
 <ol>
 <li>Written SQL query to extract city-level data and exported to CSV file.</li>
-
+![Image](../blob/master/images/project-01-Explore-Weather-Trends-city-data-extraction.PNG?raw=true)
 
 <div style="clear: left"><br>
 <li>Written SQL query to extract the global data and exported to CSV file.</li>
